@@ -1,0 +1,13 @@
+node_modules/
+documents/
+images/
+
+/dist
+package-lock.json
+logs
+*.log
+
+*.tmp
+settings.json
+user_servers.json
+.env

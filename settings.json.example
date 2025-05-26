@@ -1,5 +1,0 @@
-{
-  "serverslist": [
-    {"name" : "servername1", "address": "https://.../checkhealth", "port": 443, "active": true}
-  ]
-}
