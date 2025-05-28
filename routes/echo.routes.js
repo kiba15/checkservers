@@ -3,6 +3,6 @@ const router = new Router()
 import newController from '../controller/user.controller.js' 
 //  *****************************************************
 
-router.get('/checkhealth', newController.checkHealth)
+router.get('/checkservers', newController.checkHealth)
 
 export default router
